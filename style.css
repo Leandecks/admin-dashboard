@@ -152,8 +152,8 @@ input[type="text"] {
 
 .projects {
   display: grid;
-  gap: 1rem;
-  grid-template: repeat(2, 1fr) / repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  grid-template: repeat(2, 1fr) / repeat(auto-fit, minmax(450px, 1fr));
 }
 
 .main h3 {
